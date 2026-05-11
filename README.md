@@ -20,11 +20,11 @@ junior web developer (student), focused on making things usable and not painful 
 
 <p align="center">
   <a href="https://github.com/candorlab/Xeversea">
-    <img src="https://readme-stat-sigma.vercel.app/api/pin/?username=candorlab&repo=Xeversea&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+    <img src="https://github-readme-stats-sage-eight-28.vercel.app/api/pin/?username=candorlab&repo=Xeversea&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
          alt="Xeversea"/>
   </a>
   <a href="https://github.com/Paperoni0/DevenSMP-Website">
-    <img src="https://readme-stat-sigma.vercel.app/api/pin/?username=Paperoni0&repo=DevenSMP-Website&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+    <img src="https://github-readme-stats-sage-eight-28.vercel.app/api/pin/?username=Paperoni0&repo=DevenSMP-Website&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
          alt="DevenSMP Website"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ junior web developer (student), focused on making things usable and not painful 
 
 ## github stats
 
-[![Top Langs](https://readme-stat-sigma.vercel.app/api/top-langs/?username=candorlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sage-eight-28.vercel.app/api/top-langs/?username=candorlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

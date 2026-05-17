@@ -56,9 +56,3 @@ junior web developer (student), focused on making things usable and not painful 
 [![Top Langs](https://github-readme-stats-sage-eight-28.vercel.app/api/top-langs/?username=candorlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## devcard
-
-<a href="https://app.daily.dev/candorlab">
-  <img src="https://api.daily.dev/devcards/v2/8w2TycbO4Qo9anmaPJxiD.png?type=default&r=d6e" width="356" alt="Cand's Dev Card"/>
-</a>
